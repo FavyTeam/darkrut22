@@ -18,11 +18,11 @@
 - 🥇 <b>Languages</b> : JavaScript, TypeScript, HTML, CSS, PHP, Python, C#
 - 🌀 <b>Web Scraping</b> : BeautifulSoup, Selenium, Scrapy, Scraper API, OctoParse
 - 🏆 <b>Other Service</b> : Google, AWS Cloud, Windows, Linux, MacOS
-
+<!--
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=darkrut22&column=7&theme=onedark"/>
 </p>
-
+-->
 ## Languages & Tools
 
 <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
@@ -59,7 +59,9 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Darkrut22&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrut22&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Darkrut22's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Darkrut22&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Darkrut22's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Darkrut22&bg_color=22222E&color=F8D866&line=F85D7F&point=00FFFF&hide_border=true" />
+  </a>
   
 </p>
 </details>
