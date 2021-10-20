@@ -10,11 +10,14 @@
 
 ## Core skills
 
-- 🔭 I am ready to start your project immediately.
-- 🌱 <b>Frontend</b> : React, Redux, Next, Vue, Nuxt, Gatsby.js, Bootstrap, TailwindCSS, Material UI, CoreJS
-- 👨‍💻 <b>Backend</b> : PHP/Laravel, Node.js/Express, Python/Django/Flask, C#/.Net
-- 💬 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
-- 📫 <b>Languages</b> : JavaScript, TypeScript, HTML, CSS, PHP, Python, C#
+- ⛳ I am ready to start your project immediately.
+- 🥇 <b>Frontend</b> : React, Redux, Next, Vue, Nuxt, Gatsby.js, Bootstrap, TailwindCSS, Material UI, CoreJS
+- 🥈 <b>Backend</b> : PHP/Laravel, Node.js/Express, Python/Django/Flask, C#/.Net
+- 🥉 <b>Mobile Development</b> : React Native, Flutter, Android Studio
+- 🏅 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
+- 🥇 <b>Languages</b> : JavaScript, TypeScript, HTML, CSS, PHP, Python, C#
+- 🌀 <b>Web Scraping</b> : BeautifulSoup, Selenium, Scrapy, Scraper API, OctoParse
+- 🏆 <b>Other Service</b> : Google, AWS Cloud, Windows, Linux, MacOS
 
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=darkrut22&column=7&theme=onedark"/>
@@ -23,6 +26,7 @@
 ## Languages & Tools
 
 <code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -41,7 +45,6 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
