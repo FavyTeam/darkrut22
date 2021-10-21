@@ -17,7 +17,8 @@
 - 🏅 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
 - 🥇 <b>Languages</b> : JavaScript, TypeScript, HTML, CSS, PHP, Python, C#
 - 🌀 <b>Web Scraping</b> : BeautifulSoup, Selenium, Scrapy, Scraper API, OctoParse
-- 🏆 <b>Other Service</b> : Google, AWS Cloud, Windows, Linux, MacOS
+- 🏆 <b>Other Services</b> : Google, AWS Cloud, Windows, Linux, MacOS
+- 🏆 <b>Specializes</b> : WebRTC, Blockchain(Bitcoin, Ethereum, Litecoin)
 <!--
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=darkrut22&column=7&theme=onedark"/>
@@ -52,6 +53,8 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" ></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" ></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/blockchain/blockchain.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webrtc/webrtc.png"></code>
 <br><br>
 
 <summary> 😇 <b>My Github Stats</b>: </summary>
