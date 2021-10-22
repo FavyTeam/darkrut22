@@ -11,11 +11,11 @@
 ## Core skills
 
 - ⛳ I am ready to start your project immediately.
-- 🥇 <b>Frontend</b> : React, Redux, Next, Vue, Nuxt, Gatsby.js, Bootstrap, TailwindCSS, Material UI, CoreJS
-- 🥈 <b>Backend</b> : PHP/Laravel, Node.js/Express, Python/Django/Flask, C#/.Net
+- 🥇 <b>Frontend</b> : React, Redux, Next, Vue, Nuxt, Gatsby.js, Bootstrap, TailwindCSS, Material-UI, CoreJS, Kendo-UI
+- 🥈 <b>Backend</b> : PHP/Laravel, Node.js/Express.js/Nest.js, Python/Django/Flask, C#/.Net
 - 🥉 <b>Mobile Development</b> : React Native, Flutter, Android Studio
 - 🏅 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
-- 🥇 <b>Languages</b> : JavaScript, TypeScript, HTML, CSS, PHP, Python, C#
+- 🥇 <b>Languages</b> : JavaScript, TypeScript, HTML, CSS, PHP, Python, C#, GraphQL
 - 🌀 <b>Web Scraping</b> : BeautifulSoup, Selenium, Scrapy, Scraper API, OctoParse
 - 🏆 <b>Other Services</b> : Google, AWS Cloud, Windows, Linux, MacOS
 - 🔥 <b>Specializes</b> : WebRTC, Blockchain(Bitcoin, Ethereum, Litecoin)
@@ -33,7 +33,9 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/next/next.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nuxt/nuxt.png"></code>
 <code><img height="45" src="https://www.andre-abt.com/content/1-home/vuex.svg"></code>
 <code><img height="45" src="https://bestofjs.org/logos/vuetify.svg"></code>
 <code><img height="45" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
@@ -41,8 +43,11 @@
 <code><img height="45" src="https://www.chartjs.org/media/logo-title.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nest/nest.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/codeigniter/codeigniter.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
