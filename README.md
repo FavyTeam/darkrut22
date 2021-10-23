@@ -40,10 +40,6 @@
 <code><img height="80" src="https://www.andre-abt.com/content/1-home/vuex.svg"></code>
 <code><img height="80" width="80" src="https://www.coderomeos.org/storage/uploads/images/posts/vuetify-material-component-framework-5a8dc1db11384.png"></code>
 <code><img height="80" width="80" src="https://miro.medium.com/max/700/1*mh8il3s3hB0Xdpx6ffQLTw.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"></code>
-<code><img height="80" src="https://bachasoftware.com/wp-content/uploads/2020/07/icon_2-1.png"></code>
-<code><img height="80" src="https://topbestalternative.com/wp-content/uploads/2020/04/webgl-logo.png"></code>
-<code><img height="80" src="https://www.chartjs.org/media/logo-title.svg"></code>
 <code><img height="80" width="80" src="https://miro.medium.com/max/1400/0*9_shwT4DkDYzHj25."></code>
 <code><img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="80" width="80" src="https://cimpleo.com/uploads/blog_blog_nestJs-no-node-full.png"></code>
@@ -62,8 +58,6 @@
 <code><img height="80" src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg"></code>
 <code><img height="80" width="80" src="https://i.dlpng.com/static/png/7018427_preview.png"></code>
 <code><img height="80" src="https://devops.com.vn/wp-content/uploads/2021/02/firebase.png"></code>
-<code><img height="80" src="https://graphql.org/img/brand/logos/logo-stacked.svg"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" ></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" ></code>
@@ -77,7 +71,13 @@
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
 <code><img height="80" src="https://avatars.githubusercontent.com/u/1845120?s=200&v=4"></code>
-<code><img height="80" src="https://avatars.githubusercontent.com/u/10526312?s=200&v=4"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"></code>
+<code><img height="80" src="https://bachasoftware.com/wp-content/uploads/2020/07/icon_2-1.png"></code>
+<code><img height="80" src="https://topbestalternative.com/wp-content/uploads/2020/04/webgl-logo.png"></code>
+<code><img height="80" src="https://www.chartjs.org/media/logo-title.svg"></code>
+<code><img height="80" src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png"></code>
+<code><img height="80" src="https://graphql.org/img/brand/logos/logo-stacked.svg"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <br><br>
 
 <summary> 😇 <b>My Github Stats</b>: </summary>
