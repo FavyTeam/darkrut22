@@ -30,24 +30,24 @@
 <code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="80" src="https://howtodoinjava.com/wp-content/uploads/jquery_logo.png"></code>
 <code><img height="80" src="https://www.pikpng.com/pngl/m/217-2172365_bootstrap-featured-image-bootstrap-3-logo-png-clipart.png"></code>
-<code><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Javascript.png"></code>
+<code><img height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Javascript.png"></code>
 <code><img height="80" src="https://miro.medium.com/max/609/1*8lKzkDJVWuVbqumysxMRYw.png"></code>
 <code><img height="80" src="https://www.sovereignconsult.com/wp-content/uploads/2019/10/angular-js.png"></code>
 <code><img height="80" src="https://www.cloudcms.com/images/quickstarts/react/react.df70b005.png"></code>
 <code><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
 <code><img height="80" src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg"></code>
-<code><img height="80" src="https://miro.medium.com/max/1400/1*OrjCKmou1jT4It5so5gvOA.jpeg"></code>
+<code><img height="80" width="80" src="https://miro.medium.com/max/1400/1*OrjCKmou1jT4It5so5gvOA.jpeg"></code>
 <code><img height="80" src="https://www.andre-abt.com/content/1-home/vuex.svg"></code>
-<code><img height="80" width="90" src="https://www.coderomeos.org/storage/uploads/images/posts/vuetify-material-component-framework-5a8dc1db11384.png"></code>
-<code><img height="80" src="https://miro.medium.com/max/700/1*mh8il3s3hB0Xdpx6ffQLTw.png"></code>
+<code><img height="80" width="80" src="https://www.coderomeos.org/storage/uploads/images/posts/vuetify-material-component-framework-5a8dc1db11384.png"></code>
+<code><img height="80" width="80" src="https://miro.medium.com/max/700/1*mh8il3s3hB0Xdpx6ffQLTw.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"></code>
 <code><img height="80" src="https://bachasoftware.com/wp-content/uploads/2020/07/icon_2-1.png"></code>
 <code><img height="80" src="https://topbestalternative.com/wp-content/uploads/2020/04/webgl-logo.png"></code>
 <code><img height="80" src="https://www.chartjs.org/media/logo-title.svg"></code>
-<code><img height="80" src="https://miro.medium.com/max/1400/0*9_shwT4DkDYzHj25."></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="80" width="90" src="https://cimpleo.com/uploads/blog_blog_nestJs-no-node-full.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png"></code>
+<code><img height="80" width="80" src="https://miro.medium.com/max/1400/0*9_shwT4DkDYzHj25."></code>
+<code><img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="80" width="80" src="https://cimpleo.com/uploads/blog_blog_nestJs-no-node-full.png"></code>
+<code><img height="80" width="80" src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="80" src="https://www.secret-source.eu/wp-content/uploads/2017/11/Laravel-logo.jpg"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
@@ -60,7 +60,7 @@
 <code><img height="80" src="https://sqlitebrowser.org/images/sqlitebrowser.svg"></code>
 <code><img height="80" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-postgres-logo.png"></code>
 <code><img height="80" src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg"></code>
-<code><img height="80" src="https://i.dlpng.com/static/png/7018427_preview.png"></code>
+<code><img height="80" width="80" src="https://i.dlpng.com/static/png/7018427_preview.png"></code>
 <code><img height="80" src="https://devops.com.vn/wp-content/uploads/2021/02/firebase.png"></code>
 <code><img height="80" src="https://graphql.org/img/brand/logos/logo-stacked.svg"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
