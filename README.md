@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Talented Full-Stack Engineer</h1>
 <p align="center">
-  <img width="60%" src="https://github.com/IceDev528/IceDev528/blob/main/Logo.gif" />
+  <img width="60%" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <!--   <img width="40%" src="https://www.manageengine.com/images/msp-banner.svg" /> -->
 </p>
 
@@ -108,7 +108,7 @@
 <p align = "center">
 <!--   <img src = "https://github-readme-stats.vercel.app/api?username=Darkrut22&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27"> -->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Darkrut22&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/darkrut22/github-readme-activity-graph">
     <img alt="Darkrut22's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Darkrut22&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF&hide_border=true" />
   </a>
   
