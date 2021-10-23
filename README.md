@@ -1,11 +1,17 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Talented Full-Stack Engineer</h1>
-<p align="center">
-  <img width="60%" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+<p>
+<p>
+  <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <!--   <img width="40%" src="https://www.manageengine.com/images/msp-banner.svg" /> -->
 </p>
-
 <!-- <p align="center"><img src="https://scopetech.sa/static/media/react2.bd316a31.gif" /></p> -->
 <!-- <p align="center"><img src="https://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" /></p> -->
+<p>
+ I am a senior full-stack software engineer and architect with experience developing Web, Mobile, and Desktop applications. Since 2011, I have been working professionally in the fields I love, IT and I have worked in all phases of the project life cycle, using a wide variety of tools and frameworks. 
+</p>
+<p>🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
+<p>💬 All in all, I am an engaging, intense communicator with a passion for knowledge and understanding.</p>
+</p>
 <p align="center">
   <a href="https://github.com/darkrut22"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;10+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
 </p>
