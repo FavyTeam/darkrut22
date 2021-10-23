@@ -28,46 +28,51 @@
 
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="80" src="https://howtodoinjava.com/wp-content/uploads/jquery_logo.png"></code>
+<code><img height="80" src="https://www.pikpng.com/pngl/m/217-2172365_bootstrap-featured-image-bootstrap-3-logo-png-clipart.png"></code>
+<code><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Javascript.png"></code>
+<code><img height="80" src="https://miro.medium.com/max/609/1*8lKzkDJVWuVbqumysxMRYw.png"></code>
+<code><img height="80" src="https://www.sovereignconsult.com/wp-content/uploads/2019/10/angular-js.png"></code>
+<code><img height="80" src="https://www.cloudcms.com/images/quickstarts/react/react.df70b005.png"></code>
+<code><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
+<code><img height="80" src="https://miro.medium.com/max/1400/1*OrjCKmou1jT4It5so5gvOA.jpeg"></code>
 <code><img height="80" src="https://www.andre-abt.com/content/1-home/vuex.svg"></code>
-<code><img height="80" src="https://bestofjs.org/logos/vuetify.svg"></code>
-<code><img height="80" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
+<code><img height="80" src="https://www.coderomeos.org/storage/uploads/images/posts/vuetify-material-component-framework-5a8dc1db11384.png"></code>
+<code><img height="80" src="https://miro.medium.com/max/700/1*mh8il3s3hB0Xdpx6ffQLTw.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"></code>
 <code><img height="80" src="https://www.chartjs.org/media/logo-title.svg"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="80" src="https://miro.medium.com/max/1400/0*9_shwT4DkDYzHj25."></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="80" src="https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667"></code>
 <code><img height="80" src="https://avatars.githubusercontent.com/u/5460813?s=200&v=4"></code>
-<code><img height="80" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="80" src="https://www.secret-source.eu/wp-content/uploads/2017/11/Laravel-logo.jpg"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="80" src="https://avatars.githubusercontent.com/u/44521256?s=200&v=4"></code>
-<code><img height="80" src="https://www.drupal.org/files/styles/grid-2-2x-square/public/announcements/drupal-evergreen-logo-280X280px%20%281%29.jpg?itok=vpJ267F0"></code>
+<code><img height="80" src="https://https://web-creator.ru/uploads/Page/59/codeigniter.svg"></code>
+<code><img height="80" src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg"></code>
 <code><img height="80" src="https://avatars.githubusercontent.com/u/8085?s=200&v=4"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="80" src="https://sqlitebrowser.org/images/sqlitebrowser.svg"></code>
+<code><img height="80" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-postgres-logo.png"></code>
+<code><img height="80" src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg"></code>
+<code><img height="80" src="https://i.dlpng.com/static/png/7018427_preview.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="80" src="https://graphql.org/img/brand/logos/logo-stacked.svg"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" ></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" ></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" ></code>
+<code><img height="80" src="https://theknowledgehoundhome.files.wordpress.com/2020/03/linux.jpg?w=310" ></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" ></code>
+<code><img height="80" src="https://www.clipartmax.com/png/full/180-1808096_cloud-computing-free-icon-cloud-computing-icon-png.png" ></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img height="80" src="https://avatars.githubusercontent.com/u/1777722?s=200&v=4"></code>
+<code><img height="80" src="https://www.nginx.com/wp-content/uploads/2017/12/Google-Cloud-Logo-Main.svg"></code>
+<code><img height="80" src="https://www.business.com/images/rz/5aea2ba792a3a4a64d8b4576/Azure-Logo1.png"></code>
+<code><img height="80" src="https://cdn5.vectorstock.com/i/1000x1000/30/64/blockchain-logo-vector-29703064.jpg"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
 <code><img height="80" src="https://avatars.githubusercontent.com/u/1845120?s=200&v=4"></code>
