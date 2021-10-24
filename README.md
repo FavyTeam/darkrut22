@@ -20,7 +20,7 @@
 ## Core skills
 - 💽 <b>Programing Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP, Python, QT, C++/C#, Java
 - 📗 <b>Front-end side</b> : Bootstrap, React, Redux, Next, Vue, Nuxt, TailwindCSS, Material-UI, CoreJS, Kendo-UI
-- 📕 <b>Bront-end side</b> : PHP/Laravel, Node.js/Express.js/Nest.js, Python/Django/Flask, C#/.Net
+- 📕 <b>Back-end side</b> : PHP/Laravel, Node.js/Express.js/Nest.js, Python/Django/Flask, C#/.Net
 - 📱 <b>Mobile Development</b> : React Native, Flutter, Android Studio
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
 - 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
