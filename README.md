@@ -13,7 +13,7 @@
 <p>💬 All in all, I am an engaging, intense communicator with a passion for knowledge and understanding.</p>
 </p>
 <p align="center">
-  <a href="https://github.com/darkrut22"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;10+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
+  <a href="https://github.com/darkrut22"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20and%20Creative%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20working%20experience;&center=true&width=600&height=45"></a>
 </p>
 
 <b>👨‍🎓 I am ready to start your project immediately.</b>
