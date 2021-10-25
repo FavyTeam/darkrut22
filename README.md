@@ -23,7 +23,7 @@
 - 📕 <b>Back-end side</b> : PHP/Laravel, Node.js/Express.js/Nest.js, Python/Django/Flask, C#/.Net
 - 📱 <b>Mobile Development</b> : React Native, Flutter, Android Studio
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
-- 🏆 <b>Specializes</b> : WebRTC, Blockchain(Bitcoin, Ethereum, Litecoin), GraphQL, WebGL, Three.js
+- 🏆 <b>Specializes</b> : WebRTC, Blockchain(Bitcoin, Ethereum, Litecoin), GraphQL, Chart.js, WebGL, Three.js
 - 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
 - ⚖ <b>Testing Tools</b> : Mocha, Jest, Jasmine, Postman
 - 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
