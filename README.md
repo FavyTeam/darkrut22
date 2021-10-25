@@ -32,7 +32,7 @@
 ## Languages & Tools
 <!-- programing languages -->
 <code><img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="80" width="80" src="https://kmcquade.com/2020/10/lessons-from-the-maintainers-of-python-django-and-cloudsplaining/featured.png"></code>
+<code><img height="80" width="80" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png"></code>
 <code><img height="80" width="80" src="https://www.educationmesd.com/wp-content/uploads/2021/01/C.png"></code>
 <code><img height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"></code>
 <code><img height="80" width="80" src="https://stuff.co.za/wp-content/uploads/2019/10/unnamed-file.Qt.jpg"></code>
@@ -94,7 +94,7 @@
 <code><img height="80" width="80" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1456673892/hq7ofzbkyjdf7jrthr2d.jpg"></code><!-- Testing tool -->
 <code><img height="80" width="80" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667"></code>
 <code><img height="80" width="80" src="https://ih1.redbubble.net/image.404020079.1876/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u7.jpg"></code>
-<code><img height="80" width="80" src="https://www.pngfind.com/pngs/m/68-684650_test-frameworks-jasmine-js-logo-png-transparent-png.png"></code>
+<code><img height="80" width="80" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jasmine_plain_wordmark_logo_icon_146461.png"></code>
 <code><img height="80" width="80" src="https://thumb.tildacdn.com/tild3061-6661-4632-b639-316134306538/-/format/webp/postman.png"></code><!-- git, cloud, OS -->
 <code><img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="80" width="80" src="https://www.vhv.rs/dpng/d/464-4644573_github-logo-png-github-transparent-png.png"></code>
