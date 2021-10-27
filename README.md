@@ -16,7 +16,7 @@
   <a href="https://github.com/darkrut22"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20and%20Creative%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20working%20experience;&center=true&width=600&height=45"></a>
 </p>
 
-<b>👨‍🎓 I am ready to start your project immediately.</b>
+<b> 🎬 I am ready to start your project immediately.</b>
 ## Core skills
 - 💽 <b>Programing Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP, Python, QT, C++/C#, Java
 - 📗 <b>Front-end side</b> : Bootstrap, React, Redux, Next, Vue, Nuxt, TailwindCSS, Material-UI, CoreJS, Kendo-UI
