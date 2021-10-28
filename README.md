@@ -18,10 +18,9 @@
 
 <b> 🎬 I am ready to start your project immediately.</b>
 ## Core skills
-- 💽 <b>Programing Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP, Python, QT, C++/C#, Java
-- 📗 <b>Front-end side</b> : Bootstrap, React, Redux, Next, Vue, Nuxt, TailwindCSS, Material-UI, CoreJS, Kendo-UI
-- 📕 <b>Back-end side</b> : PHP/Laravel, Node.js/Express.js/Nest.js, Python/Django/Flask, C#/.Net
-- 🏆 <b>Specializes</b> : GraphQL, Gatsby, WebRTC, Blockchain(Bitcoin, Ethereum, Litecoin), Chart.js, WebGL, Three.js
+- 💽 <b>Programing Languages</b> : HTML/HTML5, CSS/SCSS/SASS, JavaScript, TypeScript, PHP, Python, C#
+- 📗 <b>Web frameworks & tools</b> : Bootstrap, React, Redux, Next, Vue, Nuxt, TailwindCSS, Material-UI, CoreJS, Kendo-UI, Node.js, Express.js, Hapi.js, Nest.js, Gatsby
+- 🏆 <b>Specializes</b> : GraphQL, WebRTC, Blockchain(Bitcoin, Ethereum, Litecoin), Chart.js, WebGL, Three.js
 - 📱 <b>Mobile Development</b> : React Native, Flutter, Android Studio
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
 - 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
@@ -33,10 +32,7 @@
 <!-- programing languages -->
 <code><img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="80" width="80" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png"></code>
-<code><img height="80" width="80" src="https://www.educationmesd.com/wp-content/uploads/2021/01/C.png"></code>
 <code><img height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg"></code>
-<code><img height="80" width="80" src="https://stuff.co.za/wp-content/uploads/2019/10/unnamed-file.Qt.jpg"></code>
-<code><img height="80" width="80" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png"></code><!-- Front-end side -->
 <code><img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="80" width="80" src="https://www.mayurpatil.com/wp-content/uploads/2021/04/js.jpg"></code>
@@ -49,8 +45,6 @@
 <code><img height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
 <code><img height="80" width="80" src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg"></code>
 <code><img height="80" width="80" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_wordmark_logo_icon_146305.png"></code>
-<code><img height="80" width="80" src="https://www.andre-abt.com/content/1-home/vuex.svg"></code>
-<code><img height="80" width="80" src="https://inceptum-stor.icons8.com/171gfWxHN1Pz/1%20E5rLwFafmf6KdH7B2sLELg.png"></code>
 <code><img height="80" width="80" src="https://camo.githubusercontent.com/c8edb8c44c6d5779eb077924888a4f39f134339bea41d6b242a40a6755215552/687474703a2f2f696d6775722e636f6d2f56344c746f49492e706e67"></code>
 <code><img height="80" width="80" src="https://miro.medium.com/max/1400/1*Smbj_VLH7JRp9GhLaKyiUQ.png"></code>
 <code><img height="80" width="80" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/coreui_logo_icon_145380.png"></code>
