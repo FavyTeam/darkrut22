@@ -19,12 +19,11 @@
 <b> 🎬 I am ready to start your project immediately.</b>
 ## Core skills
 - 💽 <b>Programing Languages</b> : HTML/HTML5, CSS/SCSS/SASS, JavaScript, TypeScript, PHP, Python, C#
-- 📗 <b>Web frameworks & tools</b> : Bootstrap, React, Redux, Next, Vue, Nuxt, TailwindCSS, Material-UI, CoreJS, Kendo-UI, Node.js, Express.js, Hapi.js, Nest.js, Gatsby
+- 📗 <b>Web frameworks & tools</b> : Bootstrap, React, Redux, React Native, Next, Vue, Nuxt, TailwindCSS, Material-UI, CoreJS, Kendo-UI, Node.js, Express.js, Hapi.js, Nest.js, Gatsby
 - 🏆 <b>Specializes</b> : GraphQL, WebRTC, Blockchain(Bitcoin, Ethereum, Litecoin), Chart.js, WebGL, Three.js
-- 📱 <b>Mobile Development</b> : React Native, Flutter, Android Studio
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
 - 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
-- ⚖ <b>Testing Tools</b> : Mocha, Jest, Jasmine, Postman
+- ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman
 - 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
 - 💻 <b>Operation System</b> : Windows, Linux, MacOS
 <!--<p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=darkrut22&column=7&theme=onedark"/></p>-->
@@ -42,6 +41,7 @@
 <code><img height="80" width="80" src="https://miro.medium.com/max/609/1*8lKzkDJVWuVbqumysxMRYw.png"></code>
 <code><img height="80" width="80" src="https://www.sovereignconsult.com/wp-content/uploads/2019/10/angular-js.png"></code>
 <code><img height="80" width="80" src="https://www.cloudcms.com/images/quickstarts/react/react.df70b005.png"></code>
+<code><img height="80" width="80" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
 <code><img height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></code>
 <code><img height="80" width="80" src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg"></code>
 <code><img height="80" width="80" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_wordmark_logo_icon_146305.png"></code>
@@ -50,19 +50,12 @@
 <code><img height="80" width="80" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/coreui_logo_icon_145380.png"></code>
 <code><img height="80" width="80" src="https://btihen.me/post_ruby_rails/rails_6_1_tailwind_2_0_alpinejs/featured.png"></code><!-- Back-end side -->
 <code><img height="80" width="80" src="https://www.secret-source.eu/wp-content/uploads/2017/11/Laravel-logo.jpg"></code>
-<code><img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="80" width="80" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg"></code>
 <code><img height="80" width="80" src="https://miro.medium.com/max/1400/1*q9myzo5Au8OfsaSrCodNmw.png"></code>
 <code><img height="80" width="80" src="https://cimpleo.com/uploads/blog_blog_nestJs-no-node-full.png"></code>
-<code><img height="80" width="80" src="https://www.secret-source.eu/wp-content/uploads/2017/11/microsoft-net-logo.jpg"></code>
-<code><img height="80" width="80" src="https://www.vippng.com/png/full/395-3954241_java-spring-framework-training-logo-spring-boot-png.png"></code>
 <code><img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="80" width="80" src="https://web-creator.ru/uploads/Page/59/codeigniter.svg"></code>
-<code><img height="80" width="80" src="https://www.pngjoy.com/pngl/267/5122810_shopify-logo-square-pos-hardware-bundle-star-micronics.png"></code><!-- Mobile -->
-<code><img height="80" width="80" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
-<code><img height="80" width="80" src="https://ih1.redbubble.net/image.1057190259.1918/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg"></code>
-<code><img height="80" width="80" src="https://www.glitchr-studio.com/wp-content/uploads/2016/07/android-studio.png"></code><!-- DataBase -->
+<code><img height="80" width="80" src="https://www.pngjoy.com/pngl/267/5122810_shopify-logo-square-pos-hardware-bundle-star-micronics.png"></code><!-- DataBase -->
 <code><img height="80" width="80" src="https://thumb.tildacdn.com/tild3635-3764-4263-b232-323639316131/-/format/webp/MySQL.png"></code>
 <code><img height="80" width="80" src="https://www.opc-router.de/wp-content/uploads/2018/03/icon_sqlite_Database_128.png"></code>
 <code><img height="80" width="80" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-postgres-logo.png"></code>
