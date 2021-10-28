@@ -55,20 +55,20 @@
 <code><img height="80" width="80" src="https://cimpleo.com/uploads/blog_blog_nestJs-no-node-full.png"></code>
 <code><img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="80" width="80" src="https://web-creator.ru/uploads/Page/59/codeigniter.svg"></code>
-<code><img height="80" width="80" src="https://www.pngjoy.com/pngl/267/5122810_shopify-logo-square-pos-hardware-bundle-star-micronics.png"></code><!-- DataBase -->
-<code><img height="80" width="80" src="https://thumb.tildacdn.com/tild3635-3764-4263-b232-323639316131/-/format/webp/MySQL.png"></code>
-<code><img height="80" width="80" src="https://www.opc-router.de/wp-content/uploads/2018/03/icon_sqlite_Database_128.png"></code>
-<code><img height="80" width="80" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-postgres-logo.png"></code>
-<code><img height="80" width="80" src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg"></code>
-<code><img height="80" width="80" src="https://i.dlpng.com/static/png/7018427_preview.png"></code>
-<code><img height="80" width="80" src="https://devops.com.vn/wp-content/uploads/2021/02/firebase.png"></code><!-- WebGl, three.js, graphql, blockchain -->
+<code><img height="80" width="80" src="https://www.pngjoy.com/pngl/267/5122810_shopify-logo-square-pos-hardware-bundle-star-micronics.png"></code><!-- WebGl, three.js, graphql,  -->
+<code><img height="80" width="80" src="https://www.artofgeography.com/static/450ebc3e4b1e937dc08901f526cf2bfa/02744/gatsby.png"></code>
 <code><img height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"></code>
 <code><img height="80" width="80" src="https://bachasoftware.com/wp-content/uploads/2020/07/icon_2-1.png"></code>
 <code><img height="80" width="80" src="https://topbestalternative.com/wp-content/uploads/2020/04/webgl-logo.png"></code>
 <code><img height="80" width="80" src="https://www.chartjs.org/media/logo-title.svg"></code>
 <code><img height="80" width="80" src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png"></code>
-<code><img height="80" width="80" src="https://graphql.org/img/brand/logos/logo-stacked.svg"></code>
-<code><img height="80" width="80" src="https://www.artofgeography.com/static/450ebc3e4b1e937dc08901f526cf2bfa/02744/gatsby.png"></code>
+<code><img height="80" width="80" src="https://graphql.org/img/brand/logos/logo-stacked.svg"></code><!-- DataBase -->
+<code><img height="80" width="80" src="https://thumb.tildacdn.com/tild3635-3764-4263-b232-323639316131/-/format/webp/MySQL.png"></code>
+<code><img height="80" width="80" src="https://www.opc-router.de/wp-content/uploads/2018/03/icon_sqlite_Database_128.png"></code>
+<code><img height="80" width="80" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-postgres-logo.png"></code>
+<code><img height="80" width="80" src="https://static.javatpoint.com/mongodb/images/mongodb-tutorial.jpg"></code>
+<code><img height="80" width="80" src="https://i.dlpng.com/static/png/7018427_preview.png"></code>
+<code><img height="80" width="80" src="https://devops.com.vn/wp-content/uploads/2021/02/firebase.png"></code>
 <code><img height="80" width="80" src="https://c7.alamy.com/comp/2B030PD/blockchain-crypto-currency-vector-logo-template-2B030PD.jpg"></code>
 <code><img height="80" width="80" src="https://www.logopik.com/wp-content/uploads/edd/2018/07/Bitcoin-Logo-PNG.png"></code>
 <code><img height="80" width="80" src="https://image.pngaaa.com/739/795739-middle.png"></code>
@@ -81,7 +81,6 @@
 <code><img height="80" width="80" src="https://www.insightplatforms.com/wp-content/uploads/2019/07/Octoparse_logo.png"></code>
 <code><img height="80" width="80" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1456673892/hq7ofzbkyjdf7jrthr2d.jpg"></code><!-- Testing tool -->
 <code><img height="80" width="80" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667"></code>
-<code><img height="80" width="80" src="https://ih1.redbubble.net/image.404020079.1876/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u7.jpg"></code>
 <code><img height="80" width="80" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jasmine_plain_wordmark_logo_icon_146461.png"></code>
 <code><img height="80" width="80" src="https://thumb.tildacdn.com/tild3061-6661-4632-b639-316134306538/-/format/webp/postman.png"></code><!-- git, cloud, OS -->
 <code><img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
