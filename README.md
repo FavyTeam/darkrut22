@@ -19,7 +19,7 @@
 <b> 🎬 I am ready to start your project immediately.</b>
 ## Core skills
 - 💽 <b>Programing Languages</b> : HTML/HTML5, CSS/SCSS/SASS, JavaScript, TypeScript, PHP, Python, C#
-- 📗 <b>Web frameworks & tools</b> : Bootstrap, React, Redux, React Native, Next, Vue, Nuxt, TailwindCSS, Material-UI, CoreJS, Kendo-UI, Node.js, Express.js, Hapi.js, Nest.js, Gatsby
+- 📗 <b>Web frameworks & tools</b> : Bootstrap, React, Redux, React Native, Next, Vue, Nuxt, TailwindCSS, Material-UI, CoreJS, Kendo-UI, Node.js, Express.js, Hapi.js, Nest.js, Gatsby, Strapi
 - 🏆 <b>Specializes</b> : GraphQL, WebRTC, Blockchain(Bitcoin, Ethereum, Litecoin), Chart.js, WebGL, Three.js
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
 - 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
