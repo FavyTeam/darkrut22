@@ -21,9 +21,9 @@
 - 💽 <b>Programing Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP, Python, QT, C++/C#, Java
 - 📗 <b>Front-end side</b> : Bootstrap, React, Redux, Next, Vue, Nuxt, TailwindCSS, Material-UI, CoreJS, Kendo-UI
 - 📕 <b>Back-end side</b> : PHP/Laravel, Node.js/Express.js/Nest.js, Python/Django/Flask, C#/.Net
+- 🏆 <b>Specializes</b> : GraphQL, Gatsby, WebRTC, Blockchain(Bitcoin, Ethereum, Litecoin), Chart.js, WebGL, Three.js
 - 📱 <b>Mobile Development</b> : React Native, Flutter, Android Studio
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
-- 🏆 <b>Specializes</b> : WebRTC, Blockchain(Bitcoin, Ethereum, Litecoin), GraphQL, Chart.js, WebGL, Three.js
 - 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
 - ⚖ <b>Testing Tools</b> : Mocha, Jest, Jasmine, Postman
 - 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
@@ -80,6 +80,7 @@
 <code><img height="80" width="80" src="https://www.chartjs.org/media/logo-title.svg"></code>
 <code><img height="80" width="80" src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png"></code>
 <code><img height="80" width="80" src="https://graphql.org/img/brand/logos/logo-stacked.svg"></code>
+<code><img height="80" width="80" src="https://www.artofgeography.com/static/450ebc3e4b1e937dc08901f526cf2bfa/02744/gatsby.png"></code>
 <code><img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="80" width="80" src="https://c7.alamy.com/comp/2B030PD/blockchain-crypto-currency-vector-logo-template-2B030PD.jpg"></code>
 <code><img height="80" width="80" src="https://www.logopik.com/wp-content/uploads/edd/2018/07/Bitcoin-Logo-PNG.png"></code>
