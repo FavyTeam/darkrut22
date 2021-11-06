@@ -7,13 +7,13 @@
 <!-- <p align="center"><img src="https://scopetech.sa/static/media/react2.bd316a31.gif" /></p> -->
 <!-- <p align="center"><img src="https://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" /></p> -->
 <p>
- I am a senior full-stack software engineer and architect with experience developing Web, Mobile, and Desktop applications. Since 2011, I have been working professionally in the fields I love, IT and I have worked in all phases of the project life cycle, using a wide variety of tools and frameworks. 
+ I am a senior full-stack software engineer and architect with experience developing Web, Mobile, and Desktop applications. Since 2012, I have been working professionally in the fields I love, IT and I have worked in all phases of the project life cycle, using a wide variety of tools and frameworks. 
 </p>
 <p>🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 <p>💬 All in all, I am an engaging, intense communicator with a passion for knowledge and understanding.</p>
 </p>
 <p align="center">
-  <a href="https://github.com/darkrut22"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20and%20Creative%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20working%20experience;&center=true&width=600&height=45"></a>
+  <a href="https://github.com/darkrut22"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20and%20Creative%20Full-Stack%20Software%20engineer;9+%2B%20years%20of%20working%20experience;&center=true&width=600&height=45"></a>
 </p>
 
 <b> 🎬 I am ready to start your project immediately.</b>
