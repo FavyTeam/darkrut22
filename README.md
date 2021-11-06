@@ -7,7 +7,7 @@
 <!-- <p align="center"><img src="https://scopetech.sa/static/media/react2.bd316a31.gif" /></p> -->
 <!-- <p align="center"><img src="https://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" /></p> -->
 <p>
- I am a senior full-stack software engineer and architect with experience developing Web, Mobile, and Desktop applications. Since 2012, I have been working professionally in the fields I love, IT and I have worked in all phases of the project life cycle, using a wide variety of tools and frameworks. 
+ Creative and efficient full stack developer with over 9 years of experience in web, mobile and desktop applications design, development and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Certified in both F/E and B/E technologies. Leaded successful transition from classical web skills to MEAN which reduced development time and improved system performance. And have hands-on experience in web hosting & maintenance, Browser Automation and testing, Web Scraping & Crawling. Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks. 
 </p>
 <p>🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 <p>💬 All in all, I am an engaging, intense communicator with a passion for knowledge and understanding.</p>
